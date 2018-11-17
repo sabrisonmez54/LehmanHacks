@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{0A65011D-A9A8-459A-9916-5522FC49980C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="test/Default.aspx.cs">
+    <Files>
+      <File FileName="test/Default.aspx" Line="141" Column="12" />
+      <File FileName="test/Default.aspx.cs" Line="118" Column="26" />
+      <File FileName="test/Outage.cs" Line="10" Column="61" />
+      <File FileName="test/nyct_ene.xml" Line="1" Column="222" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="test" expanded="True">
+            <Node name="test" expanded="True">
+              <Node name="images" expanded="True" />
+              <Node name="Default.aspx" expanded="True">
+                <Node name="Default.aspx.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

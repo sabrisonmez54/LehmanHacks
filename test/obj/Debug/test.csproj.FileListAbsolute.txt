@@ -1,0 +1,5 @@
+/Users/sabri/Projects/test/test/bin/test.dll
+/Users/sabri/Projects/test/test/bin/test.pdb
+/Users/sabri/Projects/test/test/obj/Debug/test.csproj.CoreCompileInputs.cache
+/Users/sabri/Projects/test/test/obj/Debug/test.dll
+/Users/sabri/Projects/test/test/obj/Debug/test.pdb
